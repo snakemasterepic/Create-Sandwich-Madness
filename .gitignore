@@ -2,3 +2,4 @@ assets
 Tools
 instance.cfg
 minecraft/config/fabric/indigo-renderer.properties
+minecraft/emi.json
