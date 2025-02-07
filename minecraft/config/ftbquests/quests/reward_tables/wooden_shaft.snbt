@@ -1,0 +1,19 @@
+{
+	id: "776EC3CE6598EEFC"
+	loot_size: 1
+	order_index: 3
+	rewards: [
+		{ count: 64, item: "createcasing:oak_shaft" }
+		{ count: 64, item: "createcasing:spruce_shaft" }
+		{ count: 64, item: "createcasing:birch_shaft" }
+		{ count: 64, item: "createcasing:jungle_shaft" }
+		{ count: 64, item: "createcasing:acacia_shaft" }
+		{ count: 64, item: "createcasing:dark_oak_shaft" }
+		{ count: 64, item: "createcasing:mangrove_shaft" }
+		{ count: 64, item: "createcasing:cherry_shaft" }
+		{ count: 64, item: "createcasing:bamboo_shaft" }
+		{ count: 64, item: "createcasing:crimson_shaft" }
+		{ count: 64, item: "createcasing:warped_shaft" }
+	]
+	title: "Wooden Shaft"
+}

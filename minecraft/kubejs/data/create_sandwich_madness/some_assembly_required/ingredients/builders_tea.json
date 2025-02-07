@@ -1,0 +1,13 @@
+{
+    "item": "create:builders_tea",
+    "displayItem": {
+        "item": "some_assembly_required:spread",
+        "nbt": {
+        "Color": 9452064
+        }
+    },
+    "displayName": "Builder's Tea",
+    "container": {
+        "item": "minecraft:glass_bottle"
+    }
+}

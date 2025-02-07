@@ -1,0 +1,15 @@
+{
+    "values":[
+        "create:cogwheel",
+        "createcasing:oak_cogwheel",
+        "createcasing:birch_cogwheel",
+        "createcasing:jungle_cogwheel",
+        "createcasing:acacia_cogwheel",
+        "createcasing:dark_oak_cogwheel",
+        "createcasing:mangrove_cogwheel",
+        "createcasing:cherry_cogwheel",
+        "createcasing:bamboo_cogwheel",
+        "createcasing:crimson_cogwheel",
+        "createcasing:warped_cogwheel"
+    ]
+}

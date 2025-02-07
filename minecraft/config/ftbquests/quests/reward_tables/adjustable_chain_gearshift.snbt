@@ -1,0 +1,14 @@
+{
+	id: "36734534C36D31A3"
+	loot_size: 1
+	order_index: 8
+	rewards: [
+		{ count: 8, item: "create:adjustable_chain_gearshift" }
+		{ count: 8, item: "createcasing:copper_adjustable_chain_gearshift" }
+		{ count: 8, item: "createcasing:brass_adjustable_chain_gearshift" }
+		{ count: 8, item: "createcasing:railway_adjustable_chain_gearshift" }
+		{ count: 8, item: "createcasing:industrial_iron_adjustable_chain_gearshift" }
+		{ count: 8, item: "createcasing:creative_adjustable_chain_gearshift" }
+	]
+	title: "Adjustable Chain Gearshift"
+}

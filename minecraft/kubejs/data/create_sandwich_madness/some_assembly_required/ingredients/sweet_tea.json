@@ -1,0 +1,13 @@
+{
+    "item": "garnished:sweet_tea",
+    "displayItem": {
+        "item": "some_assembly_required:spread",
+        "nbt": {
+        "Color": 10244382
+        }
+    },
+    "displayName": "Sweet Tea",
+    "container": {
+        "item": "minecraft:glass_bottle"
+    }
+}

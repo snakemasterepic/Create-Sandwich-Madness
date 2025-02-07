@@ -1,0 +1,25 @@
+{
+    "type": "farmersdelight:cooking",
+    "cookingtime": 200,
+    "experience": 1.0,
+    "ingredients": [
+        {
+            "type": "forge:nbt",
+            "item": "minecraft:potion",
+            "count": 1,
+            "nbt": "{Potion:\"minecraft:water\"}"
+        },
+        {
+            "tag": "forge:seeds"
+        },
+        {
+            "item": "minecraft:sugar"
+        }
+    ],
+    "result": {
+        "item": "kubejs:garnish_bottle"
+    },
+    "container": {
+        "item": "minecraft:glass_bottle"
+    }
+}

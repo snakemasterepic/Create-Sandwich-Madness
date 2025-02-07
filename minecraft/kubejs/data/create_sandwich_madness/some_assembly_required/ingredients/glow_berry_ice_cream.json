@@ -1,0 +1,13 @@
+{
+    "item": "createfood:glow_berry_ice_cream_stick",
+    "displayItem": {
+        "item": "some_assembly_required:spread",
+        "nbt": {
+        "Color": 15260865
+        }
+    },
+    "displayName": "Glow Berry Ice Cream",
+    "container": {
+        "item": "kubejs:ice_cream_scoop"
+    }
+}

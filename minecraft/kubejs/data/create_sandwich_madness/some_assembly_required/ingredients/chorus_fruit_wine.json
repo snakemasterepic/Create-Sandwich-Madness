@@ -1,0 +1,13 @@
+{
+    "item": "ends_delight:chorus_fruit_wine",
+    "displayItem": {
+        "item": "some_assembly_required:spread",
+        "nbt": {
+        "Color": 8397439
+        }
+    },
+    "displayName": "Chorus Fruit Wine",
+    "container": {
+        "item": "minecraft:glass_bottle"
+    }
+}

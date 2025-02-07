@@ -1,0 +1,13 @@
+{
+    "item": "ends_delight:chorus_flower_tea",
+    "displayItem": {
+        "item": "some_assembly_required:spread",
+        "nbt": {
+        "Color": 10048670
+        }
+    },
+    "displayName": "Chorus Flower Wine",
+    "container": {
+        "item": "minecraft:glass_bottle"
+    }
+}

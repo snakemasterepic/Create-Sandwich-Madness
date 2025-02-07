@@ -1,0 +1,33 @@
+{
+    "type": "minecraft:block",
+    "pools": [
+        {
+            "name": "cake",
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:cake"
+                }
+            ],
+            "conditions": [
+                {
+                    "condition": "minecraft:inverted",
+                    "term": {
+                        "condition": "minecraft:match_tool",
+                        "predicate": {
+                            "tag": "forge:tools/knives"
+                        }
+                    }
+                },
+                {
+                    "condition": "minecraft:block_state_property",
+                    "block": "minecraft:cake",
+                    "properties": {
+                        "bites": "0"
+                    }
+                }
+            ]
+        }
+    ]
+}

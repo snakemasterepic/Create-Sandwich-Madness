@@ -1,0 +1,14 @@
+{
+	id: "432C8FAA9085D2D2"
+	loot_size: 1
+	order_index: 12
+	rewards: [
+		{ count: 3, item: "create:mechanical_press" }
+		{ count: 3, item: "createcasing:copper_press" }
+		{ count: 3, item: "createcasing:brass_press" }
+		{ count: 3, item: "createcasing:railway_press" }
+		{ count: 3, item: "createcasing:industrial_iron_press" }
+		{ count: 3, item: "createcasing:creative_press" }
+	]
+	title: "Press"
+}

@@ -1,0 +1,13 @@
+{
+    "item": "createfood:chorus_fruit_ice_cream_stick",
+    "displayItem": {
+        "item": "some_assembly_required:spread",
+        "nbt": {
+        "Color": 12952548
+        }
+    },
+    "displayName": "Chorus Fruit Ice Cream",
+    "container": {
+        "item": "kubejs:ice_cream_scoop"
+    }
+}

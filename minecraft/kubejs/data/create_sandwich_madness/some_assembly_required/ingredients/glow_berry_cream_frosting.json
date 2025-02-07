@@ -1,0 +1,13 @@
+{
+    "item": "kubejs:measuring_cup_glow_berry_cream_frosting",
+    "displayItem": {
+        "item": "some_assembly_required:spread",
+        "nbt": {
+        "Color": 15260865
+        }
+    },
+    "displayName": "Glow Berry Cream Frosting",
+    "container": {
+        "item": "kubejs:measuring_cup"
+    }
+}

@@ -1,0 +1,16 @@
+filename = 'shulkerboxtooltip-forge-4.0.4+1.20.1.jar'
+name = 'Shulker Box Tooltip [Fabric/Forge/NeoForge]'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'f6d7615ac5349fc1625cd2941a5d861c52428a0b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4611155
+project-id = 315811

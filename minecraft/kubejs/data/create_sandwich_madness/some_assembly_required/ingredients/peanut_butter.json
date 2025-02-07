@@ -1,0 +1,13 @@
+{
+    "item": "kubejs:measuring_cup_peanut_butter",
+    "displayItem": {
+        "item": "some_assembly_required:spread",
+        "nbt": {
+        "Color": 11243314
+        }
+    },
+    "displayName": "Peanut Butter",
+    "container": {
+        "item": "kubejs:measuring_cup"
+    }
+}

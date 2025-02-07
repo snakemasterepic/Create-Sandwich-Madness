@@ -1,0 +1,14 @@
+{
+	id: "1B1E17B65B34BB98"
+	loot_size: 1
+	order_index: 10
+	rewards: [
+		{ count: 6, item: "create:depot" }
+		{ count: 6, item: "createcasing:copper_depot" }
+		{ count: 6, item: "createcasing:brass_depot" }
+		{ count: 6, item: "createcasing:railway_depot" }
+		{ count: 6, item: "createcasing:industrial_iron_depot" }
+		{ count: 6, item: "createcasing:creative_depot" }
+	]
+	title: "Depot"
+}

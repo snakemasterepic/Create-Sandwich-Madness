@@ -1,0 +1,12 @@
+{
+    "item": "kubejs:measuring_cup_vinegar",
+    "displayItem": {
+        "item": "some_assembly_required:spread",
+        "nbt": {
+        "Color": 10592927
+        }
+    },
+    "container": {
+        "item": "kubejs:measuring_cup"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "item": "createfood:fruit_smoothie_bottle",
+    "displayItem": {
+        "item": "some_assembly_required:spread",
+        "nbt": {
+        "Color": 14656933
+        }
+    },
+    "displayName": "Fruit Smoothie",
+    "container": {
+        "item": "minecraft:glass_bottle"
+    }
+}

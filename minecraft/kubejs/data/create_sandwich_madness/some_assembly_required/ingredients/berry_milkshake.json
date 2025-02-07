@@ -1,0 +1,13 @@
+{
+    "item": "createfood:berry_milkshake_bottle",
+    "displayItem": {
+        "item": "some_assembly_required:spread",
+        "nbt": {
+        "Color": 15650267
+        }
+    },
+    "displayName": "Sweet Berry Milkshake",
+    "container": {
+        "item": "kubejs:empty_jar"
+    }
+}

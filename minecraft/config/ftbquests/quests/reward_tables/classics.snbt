@@ -1,0 +1,12 @@
+{
+	id: "428594F677390FE1"
+	loot_size: 1
+	order_index: 2
+	rewards: [
+		{ count: 3, item: "minecraft:gold_ingot" }
+		{ count: 3, item: "minecraft:emerald" }
+		{ item: "minecraft:diamond" }
+		{ item: "minecraft:ancient_debris" }
+	]
+	title: "Classics"
+}

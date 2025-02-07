@@ -1,0 +1,13 @@
+{
+    "item": "kubejs:measuring_cup_berry_jam",
+    "displayItem": {
+        "item": "some_assembly_required:spread",
+        "nbt": {
+        "Color": 14325398
+        }
+    },
+    "displayName": "Sweet Berry Jam",
+    "container": {
+        "item": "kubejs:measuring_cup"
+    }
+}

@@ -1,0 +1,14 @@
+{
+	id: "6DE9FCB2FD9DDA37"
+	loot_size: 1
+	order_index: 6
+	rewards: [
+		{ count: 16, item: "create:gearbox" }
+		{ count: 16, item: "createcasing:copper_gearbox" }
+		{ count: 16, item: "createcasing:brass_gearbox" }
+		{ count: 16, item: "createcasing:railway_gearbox" }
+		{ count: 16, item: "createcasing:industrial_iron_gearbox" }
+		{ count: 16, item: "createcasing:creative_gearbox" }
+	]
+	title: "Gearbox"
+}

@@ -1,0 +1,13 @@
+{
+    "item": "ends_delight:chorus_sauce",
+    "displayItem": {
+        "item": "some_assembly_required:spread",
+        "nbt": {
+        "Color": 7088234
+        }
+    },
+    "displayName": "Chorus Sauce",
+    "container": {
+        "item": "minecraft:bowl"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "item": "kubejs:measuring_cup_chorus_fruit_cream_frosting",
+    "displayItem": {
+        "item": "some_assembly_required:spread",
+        "nbt": {
+        "Color": 12952548
+        }
+    },
+    "displayName": "Chorus Fruit Cream Frosting",
+    "container": {
+        "item": "kubejs:measuring_cup"
+    }
+}

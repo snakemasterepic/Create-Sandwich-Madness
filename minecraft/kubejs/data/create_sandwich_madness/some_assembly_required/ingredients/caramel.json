@@ -1,0 +1,13 @@
+{
+    "item": "kubejs:measuring_cup_caramel",
+    "displayItem": {
+        "item": "some_assembly_required:spread",
+        "nbt": {
+        "Color": 10570284
+        }
+    },
+    "displayName": "Caramel",
+    "container": {
+        "item": "kubejs:measuring_cup"
+    }
+}

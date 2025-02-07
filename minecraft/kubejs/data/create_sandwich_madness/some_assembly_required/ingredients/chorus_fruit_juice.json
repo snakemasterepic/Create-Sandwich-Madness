@@ -1,0 +1,13 @@
+{
+    "item": "createfood:chorus_fruit_juice_bottle",
+    "displayItem": {
+        "item": "some_assembly_required:spread",
+        "nbt": {
+        "Color": 8475293
+        }
+    },
+    "displayName": "Chorus Fruit Juice",
+    "container": {
+        "item": "minecraft:glass_bottle"
+    }
+}

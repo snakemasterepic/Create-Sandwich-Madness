@@ -1,0 +1,13 @@
+{
+    "item": "createfood:yogurt_bottle",
+    "displayItem": {
+        "item": "some_assembly_required:spread",
+        "nbt": {
+        "Color": 13748662
+        }
+    },
+    "displayName": "Yogurt",
+    "container": {
+        "item": "minecraft:glass_bottle"
+    }
+}

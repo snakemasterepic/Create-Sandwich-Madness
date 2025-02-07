@@ -1,0 +1,13 @@
+{
+    "item": "kubejs:measuring_cup_chorus_fruit_jam",
+    "displayItem": {
+        "item": "some_assembly_required:spread",
+        "nbt": {
+        "Color": 8926147
+        }
+    },
+    "displayName": "Chorus Fruit Jam",
+    "container": {
+        "item": "kubejs:measuring_cup"
+    }
+}

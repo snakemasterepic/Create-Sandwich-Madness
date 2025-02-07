@@ -1,0 +1,19 @@
+{
+	id: "7B60390A8068541E"
+	loot_size: 1
+	order_index: 4
+	rewards: [
+		{ count: 32, item: "createcasing:oak_cogwheel" }
+		{ count: 32, item: "createcasing:birch_cogwheel" }
+		{ count: 32, item: "create:cogwheel" }
+		{ count: 32, item: "createcasing:jungle_cogwheel" }
+		{ count: 32, item: "createcasing:acacia_cogwheel" }
+		{ count: 32, item: "createcasing:dark_oak_cogwheel" }
+		{ count: 32, item: "createcasing:mangrove_cogwheel" }
+		{ count: 32, item: "createcasing:cherry_cogwheel" }
+		{ count: 32, item: "createcasing:bamboo_cogwheel" }
+		{ count: 32, item: "createcasing:crimson_cogwheel" }
+		{ count: 32, item: "createcasing:warped_cogwheel" }
+	]
+	title: "Wooden Cogwheel"
+}

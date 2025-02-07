@@ -1,0 +1,13 @@
+{
+    "item": "kubejs:measuring_cup_chocolate_cream_frosting",
+    "displayItem": {
+        "item": "some_assembly_required:spread",
+        "nbt": {
+        "Color": 12683360
+        }
+    },
+    "displayName": "Chocolate Cream Frosting",
+    "container": {
+        "item": "kubejs:measuring_cup"
+    }
+}

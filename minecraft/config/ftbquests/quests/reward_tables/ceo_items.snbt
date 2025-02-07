@@ -1,0 +1,12 @@
+{
+	id: "08064F8DDE12AB7B"
+	loot_size: 1
+	order_index: 1
+	rewards: [
+		{ item: "create:creative_motor" }
+		{ item: "createcasing:creative_cogwheel" }
+		{ item: "storagedrawers:creative_storage_upgrade" }
+		{ item: "create:creative_blaze_cake" }
+	]
+	title: "CEO Items"
+}

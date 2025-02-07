@@ -1,0 +1,33 @@
+{
+    "type": "minecraft:block",
+    "pools": [
+        {
+            "name": "apple_pie",
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "farmersdelight:apple_pie"
+                }
+            ],
+            "conditions": [
+                {
+                    "condition": "minecraft:inverted",
+                    "term": {
+                        "condition": "minecraft:match_tool",
+                        "predicate": {
+                            "tag": "forge:tools/knives"
+                        }
+                    }
+                },
+                {
+                    "condition": "minecraft:block_state_property",
+                    "block": "farmersdelight:apple_pie",
+                    "properties": {
+                        "bites": "0"
+                    }
+                }
+            ]
+        }
+    ]
+}

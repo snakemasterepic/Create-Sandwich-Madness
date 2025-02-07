@@ -1,0 +1,25 @@
+{
+	icon: "createfood:cheese_pizza"
+	id: "5875CA743961CECB"
+	loot_size: 1
+	order_index: 0
+	rewards: [
+		{ item: "createfood:cheese_pizza_slice" }
+		{ item: "createfood:sausage_pizza_slice" }
+		{ item: "createfood:mushroom_pizza_slice" }
+		{ item: "createfood:fish_pizza_slice" }
+		{ item: "createfood:onion_pizza_slice" }
+		{ item: "createfood:bacon_pizza_slice" }
+		{ item: "createfood:sausage_mushroom_pizza_slice" }
+		{ item: "createfood:sausage_fish_pizza_slice" }
+		{ item: "createfood:sausage_onion_pizza_slice" }
+		{ item: "createfood:sausage_bacon_pizza_slice" }
+		{ item: "createfood:mushroom_fish_pizza_slice" }
+		{ item: "createfood:mushroom_onion_pizza_slice" }
+		{ item: "createfood:mushroom_bacon_pizza_slice" }
+		{ item: "createfood:fish_onion_pizza_slice" }
+		{ item: "createfood:fish_bacon_pizza_slice" }
+		{ item: "createfood:onion_bacon_pizza_slice" }
+	]
+	title: "Pizza Party"
+}

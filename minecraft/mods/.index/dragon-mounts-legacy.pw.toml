@@ -1,0 +1,16 @@
+filename = 'dragonmounts-1.20.1-1.2.3-beta.jar'
+name = 'Dragon Mounts: Legacy'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '85017dc6c3b6b0792be6f078f5d3a71d1667b93a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5335579
+project-id = 375088

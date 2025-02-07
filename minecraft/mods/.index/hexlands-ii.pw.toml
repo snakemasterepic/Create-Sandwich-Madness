@@ -1,0 +1,16 @@
+filename = 'hexlands-forge-1.20-5.0.0.jar'
+name = 'HexLands II'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'c3b9c13fd4f604408364db69f1e3d0901e14108d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4575834
+project-id = 522216

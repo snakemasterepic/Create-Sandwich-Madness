@@ -1,0 +1,13 @@
+{
+    "item": "createfood:apple_juice_bottle",
+    "displayItem": {
+        "item": "some_assembly_required:spread",
+        "nbt": {
+        "Color": 11117450
+        }
+    },
+    "displayName": "Apple Juice",
+    "container": {
+        "item": "minecraft:glass_bottle"
+    }
+}

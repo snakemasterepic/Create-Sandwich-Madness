@@ -1,0 +1,13 @@
+{
+    "item": "createfood:glow_berry_juice_bottle",
+    "displayItem": {
+        "item": "some_assembly_required:spread",
+        "nbt": {
+        "Color": 11110745
+        }
+    },
+    "displayName": "Glow Berry Juice",
+    "container": {
+        "item": "minecraft:glass_bottle"
+    }
+}

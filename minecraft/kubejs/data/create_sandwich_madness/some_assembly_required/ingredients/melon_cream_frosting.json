@@ -1,0 +1,13 @@
+{
+    "item": "kubejs:measuring_cup_melon_cream_frosting",
+    "displayItem": {
+        "item": "some_assembly_required:spread",
+        "nbt": {
+        "Color": 16705265
+        }
+    },
+    "displayName": "Melon Cream Frosting",
+    "container": {
+        "item": "kubejs:measuring_cup"
+    }
+}

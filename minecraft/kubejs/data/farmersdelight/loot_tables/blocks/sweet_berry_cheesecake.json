@@ -1,0 +1,33 @@
+{
+    "type": "minecraft:block",
+    "pools": [
+        {
+            "name": "sweet_berry_cheesecake",
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "farmersdelight:sweet_berry_cheesecake"
+                }
+            ],
+            "conditions": [
+                {
+                    "condition": "minecraft:inverted",
+                    "term": {
+                        "condition": "minecraft:match_tool",
+                        "predicate": {
+                            "tag": "forge:tools/knives"
+                        }
+                    }
+                },
+                {
+                    "condition": "minecraft:block_state_property",
+                    "block": "farmersdelight:sweet_berry_cheesecake",
+                    "properties": {
+                        "bites": "0"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+filename = 'recipemachinestage-1.20.1-2.0.0.jar'
+name = 'Recipe Machine Stage'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'f39fff12b15bd875c1be9e5b2e374fe8ba7aba55'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6055760
+project-id = 1108011

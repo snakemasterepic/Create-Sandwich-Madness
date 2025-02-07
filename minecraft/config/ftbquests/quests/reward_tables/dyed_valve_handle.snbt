@@ -1,0 +1,24 @@
+{
+	id: "2A93566FF788CE56"
+	loot_size: 1
+	order_index: 9
+	rewards: [
+		{ count: 16, item: "create:white_valve_handle" }
+		{ count: 16, item: "create:orange_valve_handle" }
+		{ count: 16, item: "create:magenta_valve_handle" }
+		{ count: 16, item: "create:light_blue_valve_handle" }
+		{ count: 16, item: "create:yellow_valve_handle" }
+		{ count: 16, item: "create:lime_valve_handle" }
+		{ count: 16, item: "create:pink_valve_handle" }
+		{ count: 16, item: "create:gray_valve_handle" }
+		{ count: 16, item: "create:light_gray_valve_handle" }
+		{ count: 16, item: "create:cyan_valve_handle" }
+		{ count: 16, item: "create:purple_valve_handle" }
+		{ count: 16, item: "create:blue_valve_handle" }
+		{ count: 16, item: "create:brown_valve_handle" }
+		{ count: 16, item: "create:green_valve_handle" }
+		{ count: 16, item: "create:red_valve_handle" }
+		{ count: 16, item: "create:black_valve_handle" }
+	]
+	title: "Dyed Valve Handle"
+}

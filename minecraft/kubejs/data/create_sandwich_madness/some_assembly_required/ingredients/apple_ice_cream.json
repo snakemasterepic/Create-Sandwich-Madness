@@ -1,0 +1,13 @@
+{
+    "item": "createfood:apple_ice_cream_stick",
+    "displayItem": {
+        "item": "some_assembly_required:spread",
+        "nbt": {
+        "Color": 15986908
+        }
+    },
+    "displayName": "Apple Ice Cream",
+    "container": {
+        "item": "kubejs:ice_cream_scoop"
+    }
+}

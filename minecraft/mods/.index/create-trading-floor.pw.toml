@@ -1,0 +1,16 @@
+filename = 'trading_floor-1.1.7+forge-1.20.1.jar'
+name = 'Create: Trading Floor'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '92d2c885841082c1f051924367e0a57752d505e4'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6104532
+project-id = 1102591

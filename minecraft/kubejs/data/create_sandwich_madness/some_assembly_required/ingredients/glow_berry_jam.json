@@ -1,0 +1,13 @@
+{
+    "item": "kubejs:measuring_cup_glow_berry_jam",
+    "displayItem": {
+        "item": "some_assembly_required:spread",
+        "nbt": {
+        "Color": 13473345
+        }
+    },
+    "displayName": "Glow Berry Jam",
+    "container": {
+        "item": "kubejs:measuring_cup"
+    }
+}

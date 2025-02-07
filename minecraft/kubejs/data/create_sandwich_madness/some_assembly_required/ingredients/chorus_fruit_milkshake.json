@@ -1,0 +1,13 @@
+{
+    "item": "createfood:chorus_fruit_milkshake_bottle",
+    "displayItem": {
+        "item": "some_assembly_required:spread",
+        "nbt": {
+        "Color": 11436250
+        }
+    },
+    "displayName": "Chorus Fruit Milkshake",
+    "container": {
+        "item": "kubejs:empty_jar"
+    }
+}

@@ -1,0 +1,11 @@
+{
+  "displayItem": {
+    "item": "kubejs:custom_patty",
+    "nbt": {
+      "CustomModelData": 2
+    }
+  },
+  "height": 2,
+  "item": "createfood:chicken_patty",
+  "renderAsItem": false
+}

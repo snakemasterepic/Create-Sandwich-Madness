@@ -1,0 +1,13 @@
+{
+    "item": "kubejs:measuring_cup_apple_jam",
+    "displayItem": {
+        "item": "some_assembly_required:spread",
+        "nbt": {
+        "Color": 14273685
+        }
+    },
+    "displayName": "Apple Jam",
+    "container": {
+        "item": "kubejs:measuring_cup"
+    }
+}

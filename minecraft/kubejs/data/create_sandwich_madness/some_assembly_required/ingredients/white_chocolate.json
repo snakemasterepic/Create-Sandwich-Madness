@@ -1,0 +1,13 @@
+{
+    "item": "createfood:white_chocolate_bottle",
+    "displayItem": {
+        "item": "some_assembly_required:spread",
+        "nbt": {
+        "Color": 14924168
+        }
+    },
+    "displayName": "White Chocolate",
+    "container": {
+        "item": "minecraft:glass_bottle"
+    }
+}

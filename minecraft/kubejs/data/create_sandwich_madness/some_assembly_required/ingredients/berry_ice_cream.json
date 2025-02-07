@@ -1,0 +1,13 @@
+{
+    "item": "createfood:berry_ice_cream_stick",
+    "displayItem": {
+        "item": "some_assembly_required:spread",
+        "nbt": {
+        "Color": 16247536
+        }
+    },
+    "displayName": "Sweet Berry Ice Cream",
+    "container": {
+        "item": "kubejs:ice_cream_scoop"
+    }
+}

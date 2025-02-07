@@ -1,0 +1,13 @@
+{
+    "item": "kubejs:measuring_cup_vegetable_oil",
+    "displayItem": {
+        "item": "some_assembly_required:spread",
+        "nbt": {
+        "Color": 9869186
+        }
+    },
+    "displayName": "Vegetable Oil",
+    "container": {
+        "item": "kubejs:measuring_cup"
+    }
+}

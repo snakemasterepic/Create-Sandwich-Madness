@@ -1,0 +1,13 @@
+{
+    "item": "createfood:milkshake_bottle",
+    "displayItem": {
+        "item": "some_assembly_required:spread",
+        "nbt": {
+        "Color": 13617334
+        }
+    },
+    "displayName": "Milkshake",
+    "container": {
+        "item": "kubejs:empty_jar"
+    }
+}

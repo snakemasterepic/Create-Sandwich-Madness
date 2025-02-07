@@ -1,0 +1,13 @@
+{
+    "item": "ends_delight:chorus_fruit_milk_tea",
+    "displayItem": {
+        "item": "some_assembly_required:spread",
+        "nbt": {
+        "Color": 12811715
+        }
+    },
+    "displayName": "Chorus Fruit Milk Tea",
+    "container": {
+        "item": "minecraft:glass_bottle"
+    }
+}

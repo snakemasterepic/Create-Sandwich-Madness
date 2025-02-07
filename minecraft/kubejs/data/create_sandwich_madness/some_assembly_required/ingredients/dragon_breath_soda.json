@@ -1,0 +1,13 @@
+{
+    "item": "ends_delight:dragon_breath_soda",
+    "displayItem": {
+        "item": "some_assembly_required:spread",
+        "nbt": {
+        "Color": 15584737
+        }
+    },
+    "displayName": "Dragon's Breath Soda",
+    "container": {
+        "item": "minecraft:glass_bottle"
+    }
+}

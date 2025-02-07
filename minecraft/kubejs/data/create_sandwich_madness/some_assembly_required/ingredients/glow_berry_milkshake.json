@@ -1,0 +1,13 @@
+{
+    "item": "createfood:glow_berry_milkshake_bottle",
+    "displayItem": {
+        "item": "some_assembly_required:spread",
+        "nbt": {
+        "Color": 14469535
+        }
+    },
+    "displayName": "Glow Berry Milkshake",
+    "container": {
+        "item": "kubejs:empty_jar"
+    }
+}
