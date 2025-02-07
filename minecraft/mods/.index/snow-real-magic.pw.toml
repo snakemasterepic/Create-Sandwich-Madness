@@ -1,4 +1,4 @@
-filename = 'SnowRealMagic-1.20.1-Forge-10.5.4.jar'
+filename = 'SnowRealMagic-1.20.1-Forge-10.6.0.jar'
 name = 'Snow! Real Magic!'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
 x-prismlauncher-release-type = 'beta'
 
 [download]
-hash = '4eaf3b82eab2e0264170c66144ea752a8058d663'
+hash = '35ba46d68dd605f96afd505bf35d455c1536c4d7'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 6094925
+file-id = 6167249
 project-id = 308663

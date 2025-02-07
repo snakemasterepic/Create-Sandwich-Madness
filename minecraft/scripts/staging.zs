@@ -290,6 +290,8 @@ var stages = {
         <item:farmersdelight:basket>,
         <item:farmersdelight:rope>,
         <item:farmersdelight:safety_net>,
+        <item:nethersdelight:blackstone_stove>,
+        <item:ends_delight:end_stove>,
     ],
     "sandwich_chef": [
         <item:create:andesite_alloy>,
@@ -2173,8 +2175,8 @@ function stage_items(stage as string, items as IIngredient[]) as void
     };
 
     for item in items {
-        ItemStages.restrict(item, stage);
-  //          .setHiddenInJEI(false);
+        ItemStages.restrict(item, stage)
+            .setHiddenInJEI(false);
         mods.recipestages.Recipes.setRecipeStage(stage, item);
         for type, manager in managers {
             for recipe in (manager.getRecipesByOutput(item) as stdlib.List<Recipe<Container>>) {
