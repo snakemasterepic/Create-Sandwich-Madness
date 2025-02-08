@@ -47,7 +47,7 @@ StartupEvents.registry("item", event => {
                     .hunger(1)
                     .saturation(1);
             })
-            .maxStackSize(4);
+            .maxStackSize(16);
     }
 
     event.create("mayonaise_jar")
