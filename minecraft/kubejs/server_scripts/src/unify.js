@@ -179,8 +179,13 @@ ServerEvents.recipes(event => {
         input: "garnished:ender_egg_shell"
     }, "garnished:ender_egg_shell", "ends_delight:half_dragon_egg_shell");
 
+    event.remove({
+        output: "culturaldelights:corn_cob_crate"
+    });
+
     // Not a problem
     event.remove({
         output: "create_enchantment_industry:experience_rotor"
     });
+
 });
