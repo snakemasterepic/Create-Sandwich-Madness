@@ -25,7 +25,7 @@ ServerEvents.recipes(event => {
         "createfood:sour_cream",
         "createfood:vegetable_oil",
         "createfood:vinegar",
-        "kubejs:mayonaise",
+        "kubejs:mayonnaise",
     ];
 
     const jarFluids = [

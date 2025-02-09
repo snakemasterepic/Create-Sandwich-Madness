@@ -27,7 +27,7 @@ StartupEvents.registry("item", event => {
         "cream_frosting",
         "glow_berry_cream_frosting",
         "glow_berry_jam",
-        "mayonaise",
+        "mayonnaise",
         "melon_cream_frosting",
         "melon_jam",
         "peanut_butter",
@@ -50,8 +50,8 @@ StartupEvents.registry("item", event => {
             .maxStackSize(16);
     }
 
-    event.create("mayonaise_jar")
-        .texture("kubejs:item/mayonaise_jar");
+    event.create("mayonnaise_jar")
+        .texture("kubejs:item/mayonnaise_jar");
 
     event.create("peanut_butter_jar")
         .texture("kubejs:item/peanut_butter_jar");
@@ -231,7 +231,7 @@ StartupEvents.registry("fluid", event => {
     event.create("dragon_spawn_fluid")
         .thinTexture(0x23041d);
 
-    event.create("mayonaise")
+    event.create("mayonnaise")
         .thinTexture(0xe0d385);
 });
 

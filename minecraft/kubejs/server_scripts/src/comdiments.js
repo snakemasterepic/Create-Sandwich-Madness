@@ -241,9 +241,9 @@ ServerEvents.recipes(event => {
             originalContainer: "ends_delight:dragon_breath_soda"
         },
         {
-            condiment: "kubejs:mayonaise",
+            condiment: "kubejs:mayonnaise",
             servingSize: 125,
-            originalContainer: "kubejs:measuring_cup_mayonaise"
+            originalContainer: "kubejs:measuring_cup_mayonnaise"
         },
         {
             condiment: "createfood:molasses",

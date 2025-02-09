@@ -64,8 +64,8 @@ ServerEvents.recipes(event => {
         }, "minecraft:glass_bottle", emptyJar);
     }
 
-    event.recipes.create.filling("kubejs:mayonaise_jar", [Fluid.of("kubejs:mayonaise", 500), emptyJar]);
-    event.recipes.create.emptying([Fluid.of("kubejs:mayonaise", 500), emptyJar], "kubejs:mayonaise_jar");
+    event.recipes.create.filling("kubejs:mayonnaise_jar", [Fluid.of("kubejs:mayonnaise", 500), emptyJar]);
+    event.recipes.create.emptying([Fluid.of("kubejs:mayonnaise", 500), emptyJar], "kubejs:mayonnaise_jar");
     event.recipes.create.filling("kubejs:peanut_butter_jar", [Fluid.of("kubejs:peanut_butter", 500), emptyJar]);
     event.recipes.create.emptying([Fluid.of("kubejs:peanut_butter", 500), emptyJar], "kubejs:peanut_butter_jar");
 

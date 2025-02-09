@@ -1,12 +1,12 @@
 {
-    "item": "kubejs:measuring_cup_mayonaise",
+    "item": "kubejs:measuring_cup_mayonnaise",
     "displayItem": {
         "item": "some_assembly_required:spread",
         "nbt": {
         "Color": 14734213
         }
     },
-    "displayName": "Mayonaise",
+    "displayName": "Mayonnaise",
     "container": {
         "item": "kubejs:measuring_cup"
     }

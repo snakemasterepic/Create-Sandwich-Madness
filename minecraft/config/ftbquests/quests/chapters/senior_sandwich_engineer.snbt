@@ -304,7 +304,7 @@
 								}
 								{
 									Count: 1b
-									id: "kubejs:measuring_cup_mayonaise"
+									id: "kubejs:measuring_cup_mayonnaise"
 								}
 								{
 									Count: 1b
@@ -532,7 +532,7 @@
 								}
 								{
 									Count: 1b
-									id: "kubejs:measuring_cup_mayonaise"
+									id: "kubejs:measuring_cup_mayonnaise"
 								}
 								{
 									Count: 1b
@@ -856,7 +856,7 @@
 								}
 								{
 									Count: 1b
-									id: "kubejs:measuring_cup_mayonaise"
+									id: "kubejs:measuring_cup_mayonnaise"
 								}
 								{
 									Count: 1b
@@ -3629,26 +3629,26 @@
 				"52E95F28084B5302"
 				"001BA996F12CE4B2"
 			]
-			icon: "kubejs:mayonaise_jar"
+			icon: "kubejs:mayonnaise_jar"
 			id: "7C76B88A0C87BE8F"
 			rewards: [
 				{
 					auto: "invisible"
 					id: "6128CF55701B8430"
 					ignore_reward_blocking: true
-					stage: "mayonaise"
+					stage: "mayonnaise"
 					type: "gamestage"
 				}
 				{
-					icon: "kubejs:mayonaise_bucket"
+					icon: "kubejs:mayonnaise_bucket"
 					id: "5F88F4A0617EF820"
-					title: "Mayonaise (Unlock)"
+					title: "Mayonnaise (Unlock)"
 					type: "custom"
 				}
 				{
-					icon: "kubejs:mayonaise_jar"
+					icon: "kubejs:mayonnaise_jar"
 					id: "5B59C30AA16AA400"
-					title: "Mayonaise Jar (Unlock)"
+					title: "Mayonnaise Jar (Unlock)"
 					type: "custom"
 				}
 			]
@@ -3683,7 +3683,7 @@
 				}
 				type: "item"
 			}]
-			title: "Mayonaise"
+			title: "Mayonnaise"
 			x: -2.0d
 			y: 1.5d
 		}

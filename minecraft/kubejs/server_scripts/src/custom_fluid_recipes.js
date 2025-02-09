@@ -19,7 +19,7 @@ ServerEvents.recipes(event => {
         ]).heated();
     
     event.recipes.create.mixing(
-        Fluid.of("kubejs:mayonaise", 1000),
+        Fluid.of("kubejs:mayonnaise", 1000),
         [
             Item.of("minecraft:egg", 4),
             Fluid.of("createfood:vegetable_oil", 1000),
