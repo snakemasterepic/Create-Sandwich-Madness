@@ -38,8 +38,7 @@ ServerEvents.recipes(event => {
             "farmersdelight:fried_rice",
             "ends_delight:stir_fried_shulker_meat",
             "culturaldelights:spicy_curry",
-            "ends_delight:shulker_omelette_mixture",
-            "corn_delight:taco"
+            "ends_delight:shulker_omelette_mixture"
         ]
     }, "farmersdelight:onion", "createfood:diced_onion");
     event.replaceInput({

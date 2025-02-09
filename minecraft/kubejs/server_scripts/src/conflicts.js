@@ -115,4 +115,28 @@ ServerEvents.recipes(event => {
         "garnished:incomplete_cashew_cookie",
         1
     );
+
+    // A conflict appears after we modify mutton wrap
+    event.remove({
+        output: "corn_delight:taco"
+    });
+
+    event.shapeless("corn_delight:taco", [
+        "corn_delight:tortilla",
+        "#forge:crops/cabbage",
+        "createfood:diced_onion",
+        IngredientHelper.or([
+            "minecraft:cooked_beef",
+            "farmersdelight:beef_patty",
+            "minecraft:cooked_porkchop",
+            "farmersdelight:cooked_bacon",
+            "minecraft:cooked_chicken",
+            "farmersdelight:cooked_chicken_cuts",
+            "minecraft:cooked_cod",
+            "farmersdelight:cooked_cod_slice",
+            "minecraft:cooked_salmon",
+            "farmersdelight:cooked_salmon_slice",
+            "createfood:breakfast_sausages"
+        ])
+    ]);
 });
