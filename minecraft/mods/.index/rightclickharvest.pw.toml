@@ -1,0 +1,16 @@
+filename = 'right-click-harvest-3.2.3+1.20.1-forge.jar'
+name = 'RightClickHarvest'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20-Snapshot', '1.20.1', '1.20.2', '1.20.2-Snapshot' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '811c62891b2cc740429830b48b9f4f8c3e6c8500'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4690530
+project-id = 452834
