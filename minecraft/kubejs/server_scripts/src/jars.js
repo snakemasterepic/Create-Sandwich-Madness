@@ -1,3 +1,4 @@
+//priority: 17
 ServerEvents.recipes(event => {
     event.shaped(Item.of("kubejs:empty_jar", 4),[
         "A A",

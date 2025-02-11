@@ -1,3 +1,4 @@
+//priority: 15
 ServerEvents.recipes(event => {
     event.shaped("kubejs:measuring_cup", [
         "A A",

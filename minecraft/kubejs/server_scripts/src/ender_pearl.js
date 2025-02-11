@@ -1,3 +1,4 @@
+//priority: 23
 ServerEvents.recipes(event => {
     event.replaceInput({
         output: "garnished:crushed_ender_pearl"

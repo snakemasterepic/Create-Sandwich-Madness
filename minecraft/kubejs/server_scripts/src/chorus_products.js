@@ -1,3 +1,4 @@
+//priority: 31
 ServerEvents.recipes(event => {
     const chorusFruits = IngredientHelper.or(["minecraft:chorus_fruit", "createfood:chorus_fruit_slice", "ends_delight:chorus_fruit_grain"]);
 

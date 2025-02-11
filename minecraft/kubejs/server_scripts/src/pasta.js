@@ -1,3 +1,4 @@
+//priority: 12
 ServerEvents.recipes(event => {
     event.remove("farmersdelight:cooking/pasta_with_meatballs");
 

@@ -1,3 +1,4 @@
+//priority: 33
 ServerEvents.recipes(event => {
     event.remove({
         output: "createfood:potato_chips"

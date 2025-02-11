@@ -1,3 +1,4 @@
+//priority: 4
 ServerEvents.recipes(event => {
 
     event.remove("culturaldelights:avocado_toast");

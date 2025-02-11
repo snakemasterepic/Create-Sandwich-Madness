@@ -1,4 +1,4 @@
-
+//priority: 5
 ServerEvents.recipes(event => {
     const upgrades = [
         "storagedrawers:obsidian_storage_upgrade",

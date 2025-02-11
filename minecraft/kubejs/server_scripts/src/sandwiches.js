@@ -1,4 +1,4 @@
-
+//priority: 6
 ServerEvents.recipes(event => {
     // Do not use createfood's bread slices (except for pumpernickel)
     event.remove({

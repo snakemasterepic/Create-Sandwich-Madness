@@ -1,3 +1,4 @@
+//priority: 21
 ServerEvents.recipes(event => {
     event.remove({
         output: [

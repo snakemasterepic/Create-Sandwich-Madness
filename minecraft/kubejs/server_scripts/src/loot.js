@@ -1,4 +1,4 @@
-
+//priority: 16
 ServerEvents.entityLootTables(event => {
     event.modifyEntity("minecraft:shulker", loot => {
         loot.addPool(pool => {

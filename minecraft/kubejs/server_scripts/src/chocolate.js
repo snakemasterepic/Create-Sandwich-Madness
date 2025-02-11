@@ -1,3 +1,4 @@
+//priority: 32
 ServerEvents.recipes(event => {
     event.remove("create:mixing/chocolate");
 

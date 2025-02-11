@@ -1,3 +1,4 @@
+//priority: 19
 ServerEvents.recipes(event => {
     // Switching  salt compound to salt does not work for sequenced recipes for some reason, so we need to do that manually.
     event.remove([{

@@ -1,3 +1,4 @@
+//priority: 3
 MoreJSEvents.villagerTrades(event => {
     event.removeModdedTrades("minecraft:farmer", 1);
     event.addTrade("minecraft:farmer", 1, [Item.of("farmersdelight:onion", 26)], "minecraft:emerald");

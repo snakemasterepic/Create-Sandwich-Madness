@@ -1,3 +1,4 @@
+//priority: 37
 ServerEvents.recipes(event => {
     event.forEachRecipe({
         type: "minecraft:smithing_transform"

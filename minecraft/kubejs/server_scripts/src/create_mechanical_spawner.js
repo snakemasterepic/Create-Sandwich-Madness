@@ -1,3 +1,4 @@
+//priority: 27
 ServerEvents.recipes(event => {
     event.remove({
         mod: "create_mechanical_spawner"

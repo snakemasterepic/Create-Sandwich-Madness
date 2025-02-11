@@ -1,3 +1,4 @@
+//priority: 1
 ServerEvents.recipes(event => {
     // Toast
     event.replaceInput({

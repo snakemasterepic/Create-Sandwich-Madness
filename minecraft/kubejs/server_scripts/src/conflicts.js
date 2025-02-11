@@ -1,3 +1,4 @@
+//priority: 28
 ServerEvents.recipes(event => {
 
     event.remove("create:crushing/diorite");

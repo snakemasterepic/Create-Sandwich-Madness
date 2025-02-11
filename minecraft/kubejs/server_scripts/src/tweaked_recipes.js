@@ -1,3 +1,4 @@
+//priority: 2
 ServerEvents.recipes(event => {
     event.replaceInput({
         output: "garnished:sturdy_waffle"

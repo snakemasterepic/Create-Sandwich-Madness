@@ -1,3 +1,4 @@
+//priority: 8
 ServerEvents.recipes(event => {
     event.remove("createfood:create/compacting/sugar_cane_fluid_from_compacting");
     event.recipes.create.compacting(Fluid.of("createfood:sugar_cane_juice", 250), [Item.of("minecraft:sugar_cane", 1)]);

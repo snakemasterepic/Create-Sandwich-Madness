@@ -1,3 +1,4 @@
+//priority: 14
 ServerEvents.recipes(event => {
     // Enchanted golden apple recipe.
     event.recipes.create.filling(

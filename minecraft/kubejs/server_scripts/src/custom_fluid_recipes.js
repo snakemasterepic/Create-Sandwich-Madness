@@ -1,3 +1,4 @@
+//priority: 26
 ServerEvents.recipes(event => {
 
     event.remove("garnished:mixing/peanut_oil");

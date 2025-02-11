@@ -1,3 +1,4 @@
+//priority: 35
 const containers = [
     "minecraft:glass_bottle",
     "kubejs:empty_jar",

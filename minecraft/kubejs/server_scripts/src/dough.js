@@ -1,3 +1,4 @@
+//priority: 25
 ServerEvents.recipes(event => {
     event.remove([{
         input: "farmersdelight:wheat_dough"

@@ -1,3 +1,4 @@
+//priority: 38
 ServerEvents.recipes(event => {
     event.remove("farmersdelight:cooking/apple_cider");
     event.remove("create_central_kitchen:mixing/apple_cider");

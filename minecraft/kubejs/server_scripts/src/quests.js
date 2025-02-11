@@ -1,4 +1,4 @@
-
+//priority: 9
 const SIDE_DISH_COOLDOWN = 3600; // Seconds
 const SIDE_DISH_CHAPTERS = [12,14,16,18,20];
 

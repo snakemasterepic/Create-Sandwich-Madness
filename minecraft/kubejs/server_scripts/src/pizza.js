@@ -1,3 +1,4 @@
+//priority: 11
 ServerEvents.recipes(event => {
     event.recipes.create.filling(
         "createfood:pizza_dough_tomato_sauce",

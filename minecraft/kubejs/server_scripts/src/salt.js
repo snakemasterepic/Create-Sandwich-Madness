@@ -1,3 +1,4 @@
+//priority: 7
 ServerEvents.recipes(event => {
     // Simplify salt
     event.remove([{

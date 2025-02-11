@@ -1,3 +1,4 @@
+//priority: 30
 const sets = [
     ["minecraft:oak_planks", "createcasing:oak_cogwheel", "createcasing:oak_large_cogwheel", "minecraft:stripped_oak_log", "createcasing:oak_shaft"],
     ["minecraft:birch_planks", "createcasing:birch_cogwheel", "createcasing:birch_large_cogwheel", "minecraft:stripped_birch_log", "createcasing:birch_shaft"],

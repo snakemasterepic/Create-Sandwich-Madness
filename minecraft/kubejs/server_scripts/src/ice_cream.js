@@ -1,3 +1,4 @@
+//priority: 18
 ServerEvents.recipes(event => {
     const ice_creams = [
         "createfood:ice_cream",

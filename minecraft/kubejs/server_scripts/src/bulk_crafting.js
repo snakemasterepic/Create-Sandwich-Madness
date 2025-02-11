@@ -1,3 +1,4 @@
+//priority: 34
 ServerEvents.recipes(event => {
     event.shaped(Item.of("minecraft:stick", 8), [
         "A","A"

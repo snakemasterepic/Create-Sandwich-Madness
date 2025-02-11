@@ -1,3 +1,4 @@
+//priority: 29
 ServerEvents.recipes(event => {
     const condiments = [
         {

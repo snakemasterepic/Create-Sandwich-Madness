@@ -1,3 +1,4 @@
+//priority: 36
 ServerEvents.recipes(event => {
     event.remove("createfood:create/filling/sweet_roll_from_filling_cream_frosting");
     event.remove("createfood:create/filling/chocolate_sweet_roll_from_filling_cream_frosting");

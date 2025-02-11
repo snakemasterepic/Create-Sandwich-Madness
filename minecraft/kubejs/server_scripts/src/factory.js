@@ -1,4 +1,4 @@
-
+//priority: 22
 ServerEvents.recipes(event => {
     event.replaceInput({
         output: "create:brass_hand"

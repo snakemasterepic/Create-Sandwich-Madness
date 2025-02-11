@@ -1,3 +1,4 @@
+//priority: 24
 ServerEvents.recipes(event => {
     event.remove("garnished:crushing/ender_dragon_egg_shell");
     event.recipes.create.crushing([
