@@ -1,19 +1,39 @@
 //priority: 10
 ServerEvents.recipes(event => {
-    event.replaceInput({
-        output: []
-    }, "farmersdelight:tomato", "some_assembly_required:tomato_slices");
+    event.remove({
+        output: [
+            "farmersdelight:vegetable_noodles",
+            "farmersdelight:chicken_soup"
+        ]
+    });
+
+    event.recipes.farmersdelight.cooking([
+        "some_assembly_required:chopped_carrot",
+        "minecraft:brown_mushroom",
+        "#forge:pasta",
+        "#forge:crops/cabbage",
+        "#forge:vegetables"
+    ], "farmersdelight:vegetable_noodles",
+    1, 200,
+    "minecraft:bowl");
+    event.recipes.farmersdelight.cooking([
+        "#forge:raw_chicken",
+        "some_assembly_required:chopped_carrot",
+        "#forge:crops/cabbage",
+        "#forge:vegetables"
+    ], "farmersdelight:chicken_soup",
+    1, 200,
+    "minecraft:bowl");
+
     event.replaceInput({
         output: [
             "garnished:salad",
-            "farmersdelight:vegetable_noodles",
             "farmersdelight:fried_rice",
             "ends_delight:ender_bamboo_rice",
             "farmersdelight:vegetable_soup",
             "farmersdelight:beef_stew",
-            "ends_delight:dragon_meat_stew",
+            "ends_delight:dragon_meat_stew_block",
             "minecraft:rabbit_stew",
-            "farmersdelight:chicken_soup",
             "farmersdelight:mushroom_rice",
             "farmersdelight:kelp_roll"
         ]
@@ -27,8 +47,7 @@ ServerEvents.recipes(event => {
             "farmersdelight:grilled_salmon",
             "farmersdelight:roast_chicken_block",
             "farmersdelight:shepherds_pie_block",
-            "ends_delight:grilled_shulker"
-
+            "ends_delight:grilled_shulker_block"
         ]
     }, "farmersdelight:onion", "some_assembly_required:sliced_onion");
     event.replaceInput({
@@ -75,6 +94,15 @@ ServerEvents.recipes(event => {
             "culturaldelights:smoked_tomato"
         ]
     }, "farmersdelight:tomato", "some_assembly_required:tomato_slices");
+});
+
+ServerEvents.compostableRecipes(event => {
+    event.add("culturaldelights:cucumber_seeds", 0.3);
+    event.add("culturaldelights:cucumbers", 0.65);
+    event.add("culturaldelights:cut_cucumber", 0.5);
+    event.add("culturaldelights:eggplant_seeds", 0.3);
+    event.add("culturaldelights:eggplant", 0.65);
+    event.add("culturaldelights:cut_eggplant", 0.5);
     
 });
 

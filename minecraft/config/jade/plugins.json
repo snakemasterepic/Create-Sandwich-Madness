@@ -76,6 +76,9 @@
     "goggles.detailed": false,
     "placard": true
   },
+  "balm": {
+    "jade": true
+  },
   "storagedrawers": {
     "display.stacklimit": true,
     "main": true,

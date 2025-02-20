@@ -1,4 +1,4 @@
-filename = 'create_mechanical_spawner-1.20.1-0.1.0.j-55.jar'
+filename = 'create_mechanical_spawner-1.20.1-0.1.1.j-55.jar'
 name = 'Create Mechanical Spawner'
 side = 'both'
 x-prismlauncher-loaders = [ 'forge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '076e2f1c31cdf1302c27427b44e62d4afdf4d5cd'
+hash = '5f46e61e72f6e37bb0771a27fde7719824625aea'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 5843870
+file-id = 6207962
 project-id = 821828
