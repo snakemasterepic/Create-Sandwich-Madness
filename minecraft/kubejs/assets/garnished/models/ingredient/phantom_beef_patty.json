@@ -1,0 +1,60 @@
+{
+  "elements": [
+    {
+      "faces": {
+        "down": {
+          "texture": "#phantom_beef_patty"
+        },
+        "east": {
+          "rotation": 90,
+          "texture": "#phantom_beef_patty",
+          "uv": [
+            14.0,
+            2.0,
+            16.0,
+            14.0
+          ]
+        },
+        "north": {
+          "rotation": 180,
+          "texture": "#phantom_beef_patty",
+          "uv": [
+            2.0,
+            0.0,
+            14.0,
+            2.0
+          ]
+        },
+        "south": {
+          "texture": "#phantom_beef_patty"
+        },
+        "up": {
+          "texture": "#phantom_beef_patty"
+        },
+        "west": {
+          "rotation": 270,
+          "texture": "#phantom_beef_patty",
+          "uv": [
+            0.0,
+            2.0,
+            2.0,
+            14.0
+          ]
+        }
+      },
+      "from": [
+        2,
+        0,
+        2
+      ],
+      "to": [
+        14,
+        2,
+        14
+      ]
+    }
+  ],
+  "textures": {
+    "phantom_beef_patty": "garnished:item/ingredient/phantom_beef_patty"
+  }
+}

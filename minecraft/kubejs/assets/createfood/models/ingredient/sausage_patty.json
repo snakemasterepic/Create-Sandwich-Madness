@@ -1,0 +1,60 @@
+{
+  "elements": [
+    {
+      "faces": {
+        "down": {
+          "texture": "#sausage_patty"
+        },
+        "east": {
+          "rotation": 90,
+          "texture": "#sausage_patty",
+          "uv": [
+            14.0,
+            2.0,
+            16.0,
+            14.0
+          ]
+        },
+        "north": {
+          "rotation": 180,
+          "texture": "#sausage_patty",
+          "uv": [
+            2.0,
+            0.0,
+            14.0,
+            2.0
+          ]
+        },
+        "south": {
+          "texture": "#sausage_patty"
+        },
+        "up": {
+          "texture": "#sausage_patty"
+        },
+        "west": {
+          "rotation": 270,
+          "texture": "#sausage_patty",
+          "uv": [
+            0.0,
+            2.0,
+            2.0,
+            14.0
+          ]
+        }
+      },
+      "from": [
+        2,
+        0,
+        2
+      ],
+      "to": [
+        14,
+        2,
+        14
+      ]
+    }
+  ],
+  "textures": {
+    "sausage_patty": "createfood:item/ingredient/sausage_patty"
+  }
+}
