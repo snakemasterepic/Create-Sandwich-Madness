@@ -1,5 +1,11 @@
 {
   "favorites": [],
+  "lookup_history": [
+    "item:minecraft:amethyst_block",
+    "#item:forge:storage_blocks",
+    "item:minecraft:netherite_block"
+  ],
+  "craft_history": [],
   "recipe_defaults": {
     "added": [],
     "tags": {},

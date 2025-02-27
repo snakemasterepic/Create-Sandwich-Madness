@@ -1,0 +1,16 @@
+{
+    "name": "First Steps",
+    "icon": "minecraft:bread",
+    "category": "patchouli:getting_started",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Welcome to Create Sandwich Madness."
+        },
+        {
+            "type": "patchouli:cooking_recipe",
+            "input1": "minecraft:stick",
+            "input2": "minecraft:cooked_beef"
+        }
+    ]
+}

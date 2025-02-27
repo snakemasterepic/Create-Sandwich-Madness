@@ -1,0 +1,18 @@
+{
+    "components": [
+        {
+            "type": "patchouli:item",
+            "item": "#input1",
+            "framed": false,
+            "x": 16,
+            "y": 16
+        },
+        {
+            "type": "patchouli:item",
+            "item": "#input2",
+            "framed": false,
+            "x": 32,
+            "y": 16
+        }
+    ]
+}
