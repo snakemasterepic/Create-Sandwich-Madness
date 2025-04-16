@@ -56,5 +56,7 @@
     "create_sandwich_madness.tip.progression8": "No, you cannot sneak to speed up crop growth in this pack.  But you can pass the time by decorating your base.",
     "create_sandwich_madness.tip.progression9": "As you advanced in your career, you will need to make more and more sandwiches.",
     "create_sandwich_madness.tip.progression10": "Pay close attention to the ingredients required for each sandwich.  If you are unable to submit sandwiches, you probably have a wrong ingredient somewhere.",
-    "create_sandwich_madness.tip.progression11": "Most sandwiches with liquid ingredients have them before solid ingredients.  Consider this fact when building your assembly lines."
+    "create_sandwich_madness.tip.progression11": "Most sandwiches with liquid ingredients have them before solid ingredients.  Consider this fact when building your assembly lines.",
+    "create_sandwich_madness.tip.chunks1": "You can claim chunks using FTB Chunks.  Doing so protects your factory from creeper explosions.",
+    "create_sandwich_madness.tip.chunks2": "Your machinery is lazy and will stop working when you are too far away.  The center of the world seems to resist this effect, but once you advance far enough, you can enslave ghasts to act as managers with chunk loaders."
 }

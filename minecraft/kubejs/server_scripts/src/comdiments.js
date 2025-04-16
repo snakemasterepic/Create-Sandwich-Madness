@@ -77,6 +77,11 @@ ServerEvents.recipes(event => {
             originalContainer: "createfood:chorus_fruit_ice_cream_stick"
         },
         {
+            condiment: "createfood:caramel",
+            servingSize: 125,
+            originalContainer: "kubejs:measuring_cup_caramel"
+        },
+        {
             condiment: "createfood:chorus_fruit_jam",
             servingSize: 125,
             originalContainer: "kubejs:measuring_cup_chorus_fruit_jam"
